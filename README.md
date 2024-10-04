@@ -32,3 +32,5 @@ python app.py
 Flask ищет файлы шаблонов внутри папки templates. Перейдите в папку PythonApp и создайте папку под названием templates. Внутри templates создайте файл index.html. Откройте index.html и пропишите следующий HTML:
 
 https://code.tutsplus.com/ru/creating-a-web-app-from-scratch-using-python-flask-and-mysql--cms-22972t
+
+https://proglib.io/p/django-s-nulya-chast-1-pishem-mnogopolzovatelskiy-blog-dlya-kluba-lyubiteley-zadach-python-2022-06-06
